@@ -1,0 +1,16 @@
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\obj\Debug\net5.0\TodoListConsoleApp.csproj.AssemblyReference.cache
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\obj\Debug\net5.0\TodoListConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\obj\Debug\net5.0\TodoListConsoleApp.AssemblyInfoInputs.cache
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\obj\Debug\net5.0\TodoListConsoleApp.AssemblyInfo.cs
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\obj\Debug\net5.0\TodoListConsoleApp.csproj.CoreCompileInputs.cache
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\bin\Debug\net5.0\TodoListConsoleApp.exe
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\bin\Debug\net5.0\TodoListConsoleApp.deps.json
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\bin\Debug\net5.0\TodoListConsoleApp.runtimeconfig.json
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\bin\Debug\net5.0\TodoListConsoleApp.runtimeconfig.dev.json
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\bin\Debug\net5.0\TodoListConsoleApp.dll
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\bin\Debug\net5.0\ref\TodoListConsoleApp.dll
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\bin\Debug\net5.0\TodoListConsoleApp.pdb
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\obj\Debug\net5.0\TodoListConsoleApp.dll
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\obj\Debug\net5.0\ref\TodoListConsoleApp.dll
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\obj\Debug\net5.0\TodoListConsoleApp.pdb
+D:\Coding\NET\TodoListConsoleApp\TodoListConsoleApp\obj\Debug\net5.0\TodoListConsoleApp.genruntimeconfig.cache
