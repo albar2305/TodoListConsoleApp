@@ -1,4 +1,4 @@
-# TodoListView - Aplikasi Manajemen Daftar Tugas Sederhana
+# Aplikasi Manajemen Daftar Tugas Sederhana
 
 TodoListView adalah aplikasi manajemen daftar tugas sederhana yang dikembangkan dalam bahasa C# untuk konsol.
 
